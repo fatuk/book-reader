@@ -1,0 +1,40 @@
+{
+	"id": 1,
+	"titleEn": "The Martian",
+	"titleRu": "Марсианин",
+	"authorEn": "Andy Weir",
+	"authorRu": "Энди Вейер",
+	"year": "2011",
+	"cover": "img/books/martian.jpg",
+	"chapter": {
+		"id": 1,
+		"number": 1,
+		"titleEn": "LOG ENTRY: SOL 6",
+		"titleRu": "ЗАПИСЬ В ЖУРНАЛЕ: СОЛ 6",
+		"paragraphs": [{
+			"id": 1,
+			"content": {
+				"textEn": "I’m pretty much fucked.",
+				"textRu": "Я в глубокой заднице."
+			}
+		}, {
+			"id": 2,
+			"content": {
+				"textEn": "That’s my considered opinion.",
+				"textRu": "Таково мое твердое убеждение."
+			}
+		}, {
+			"id": 3,
+			"content": {
+				"textEn": "Fucked.",
+				"textRu": "В заднице."
+			}
+		}, {
+			"id": 4,
+			"content": {
+				"textEn": "Six days in to what should be a greatest two months of my life, and it’s turned in to a nightmare.",
+				"textRu": "Прошло шесть дней из двух месяцев, которые должны были стать лучшими в моей жизни, а обернулись сущим кошмаром."
+			}
+		}]
+	}
+}
